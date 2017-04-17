@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+    <remote name="repo-server" fetch="git@SHAGIT01.cn.zmt.local:" />  
+    <default revision="master" remote="repo-server" />  
+    <project name="platform/project01" path="platform/project01"/>  
+    <project name="platform/project02" path="platform/project02"/>  
+</manifest> 
