@@ -2,6 +2,6 @@
 <manifest>  
     <remote name="shagit01" fetch="ssh://git@SHAGIT01.cn.zmt.local/" />  
     <default revision="master" remote="shagit01" />  
-    <project name="open_source/project01" path="open_source/project01" revision="tree/demo01"/> 
-    <project name="open_source/project02" path="open_source/project02" revision="tree/demo03"/> 
+    <project name="open_source/project01" path="open_source/project01" remote="shagit01" revision="tree/demo01"/> 
+    <project name="open_source/project02" path="open_source/project02" remote="shagit01" revision="tree/demo03"/> 
 </manifest> 
