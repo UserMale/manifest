@@ -4,6 +4,6 @@
     <remote name="shagit02" fetch="ssh://git@SHAGIT02.cn.zmt.local/" /> 
     <default revision="master" remote="shagit01" />  
     <project name="open_source/project01" path="open_source/project01" remote="shagit01" revision="66cd2ce0a5ca1ed924435553d596e3581333e32d"/> 
-    <project name="open_source/project02" path="open_source/project02" remote="shagit01" revision="adcfdb5d24394154c76561f30577a225d81e1a69"/>
+    <project name="open_source/project02" path="open_source/project02" remote="shagit01" revision="bf9c8ca5fa37641d9869528a1afd703ad6ae5635"/>
     <project name="lma/test_repo2" path="open_source/project03" remote="shagit02" revision="master"/>
 </manifest> 
